@@ -61,6 +61,12 @@ text-align: left;
 margin-top: 45px;
 }
 
+h4{
+color: #B26458;
+text-align: left;
+margin-top: -15px;
+}
+
 
 a{
 background-attachment: #6B72E1;
@@ -125,7 +131,7 @@ border: 2px solid;
 border-color: #974E47;
 border-radius: 7px;
 display: block;
-margin-top: 15px;
+margin-top: 10px;
 width: 210px;
 margin:left;
 font-weight: bold;
@@ -146,7 +152,7 @@ border: 2px solid;
 border-color: #974E47;
 border-radius: 7px;
 display: block;
-margin-top: 15px;
+margin-top: -5px;
 width: 180px;
 margin:left;
 font-weight: bold;
@@ -172,4 +178,8 @@ list-style: none;
 
 .list-inline{
 color: white;
+}
+
+.fab fa-instagram-square {
+	position: center;
 }
