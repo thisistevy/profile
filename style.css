@@ -163,7 +163,7 @@ background-color: white;
 color: #974E47;
 }
 .link-black{
-color: rgba (O, O, O, 2%);
+color: #974E47;
 font-size: 40px;
 }
 
@@ -174,12 +174,9 @@ padding-left: 0px;
 
 .list-inline{
 list-style: none;
-}
-
-.list-inline{
+margin-left: 20px;
+margin-right: 25px;
 color: white;
 }
 
-.fab fa-instagram-square {
-	position: center;
-}
+@media (max-width: 400px) 
